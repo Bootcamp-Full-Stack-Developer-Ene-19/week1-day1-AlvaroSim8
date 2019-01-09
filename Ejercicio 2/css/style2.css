@@ -11,9 +11,7 @@
       
       
       
-      table{
-       
-          
+      table{ 
           width: 66.66%;
           border-collapse: collapse;
           margin-top: 2rem;
@@ -21,12 +19,14 @@
       
       
         caption{
-              padding: 1rem;
+              margin-bottom: 1rem;
               font-weight: bold;
               text-align: left;
             }
         
-            th, td{
+            thead th,
+            tbody th,
+            tbody td{
               
                   border: 1px solid #ddd;
                 

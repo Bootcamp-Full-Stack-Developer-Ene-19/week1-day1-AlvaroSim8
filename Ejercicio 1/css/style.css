@@ -1,0 +1,41 @@
+ 
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #333333;
+}
+
+ h1, h2{
+
+     color: #4A90E2;
+}
+
+ .destacado{
+ 
+     border-top: 1px solid #dddddd;
+     border-bottom: 1px solid #dddddd;
+     padding: 1rem 0;
+     font-size: 1.5rem;
+     line-height: 1.5;
+   
+}
+
+ abbr{
+     font-family: monospace;
+     font-size: .85rem;
+}
+
+
+
+ .width{
+     width: 80%;
+}
+
+ blockquote{
+
+     color: #666666;
+     font-family: serif;
+     font-size: 1.2rem;
+     font-style: italic;
+}
+ 
+ 
